@@ -3,7 +3,7 @@ Excited to share my latest project - a Live Weather App Tracker built with Node.
 
 **🔍 Features:**
 
-**Real-time weather updates:** Stay informed with live weather data.
+**Real-time weather updates:** Stay informed with live weather data.\n
 **User-friendly interface:** Intuitive design for seamless navigation.
 **Location-based tracking:** Get weather details for any location worldwide.
 **Responsive design:** Accessible on various devices for a seamless user experience.
